@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "483661049277",
+    "project_id": "chathw3",
+    "storage_bucket": "chathw3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483661049277:android:60157d8dc261b2f9a9b6d4",
+        "android_client_info": {
+          "package_name": "com.example.hw3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483661049277-rlo4f626dm9055tf8g57sg83qveqmgjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hw3",
+            "certificate_hash": "51d90d655d7e1b3577d9c42fd6fc72c74b59d0bd"
+          }
+        },
+        {
+          "client_id": "483661049277-5jrghir4vkrlmhsqt6hs1ik4ie2j7mug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_-L4boriZZfJok_3Xlg-JpihfATIVEPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483661049277-5jrghir4vkrlmhsqt6hs1ik4ie2j7mug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
